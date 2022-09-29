@@ -13,9 +13,9 @@
 	{{ end }}
 	{{ partial "meta" . }}
 
-	<link rel="icon" type="image/png" href=/favicon.ico />
-	<link rel="stylesheet" href="/css/main.css">
-	<script src="/js/main.js"></script>
+	<link rel="icon" type="image/png" href={{ .Site.BaseURL }}/favicon.ico />
+	<link rel="stylesheet" href="{{ .Site.BaseURL }}/css/main.css">
+	<script src="{{ .Site.BaseURL }}/js/main.js"></script>
 	<script src="https://kit.fontawesome.com/bf18cd1a66.js" crossorigin="anonymous"></script>
 </head>
 
