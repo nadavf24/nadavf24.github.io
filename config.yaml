@@ -1,5 +1,5 @@
-baseURL: https://nadavf24.github.io/tanchx # todo: change site url.
-title: Eternity # todo: change site name.
+baseURL: https://nadavf24.github.io/tanchX # todo: change site url.
+title: Tanch X # todo: change site name.
 defaultContentLanguage: 'en'
 theme: eternity
 googleAnalytics: '' # todo: set your analytics id.
